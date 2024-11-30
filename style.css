@@ -1,0 +1,47 @@
+
+h3 {
+  text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #191919;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .profile-container {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: #b23838;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: black;
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    
+    padding: 10px;
+    margin: 0 auto 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+    text-indent: 20px;
+    text-align: justify;
+    text-align: center
+  }
+
+h2 {
+  text-align: center
+}
+div {
+  text-align: center
+}
