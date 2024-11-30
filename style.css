@@ -45,3 +45,7 @@ h2 {
 div {
   text-align: center
 }
+
+li {
+  list-style-type: none;
+}
